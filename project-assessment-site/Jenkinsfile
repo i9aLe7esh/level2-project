@@ -35,7 +35,7 @@ spec:
     CREDS = credentials('Rawan-docker')
     DOCKER_NAMESPACE = 'rawan005'
     SERVICE_NAME = 'project-assessment-site'
-    TOKEN=credentials('49858e69-07e1-49d0-8f2f-43942933478a')
+    TOKEN=credentials('64744fdc-c140-4714-93d7-f51f92a3243e')
   }
   stages {
       stage("Build") {
