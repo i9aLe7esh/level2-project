@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: department-service
-        image: rawan005/department-service
+        image: salehalshamlan/department-service
         ports:
         - containerPort: 80
