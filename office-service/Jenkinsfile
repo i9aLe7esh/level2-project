@@ -32,7 +32,7 @@ spec:
     }
   }
   environment {
-    CREDS = credentials('saleh_docker')
+    CREDS = credentials('saleh_docker_creds')
     DOCKER_NAMESPACE = 'salehalshamlan'
     SERVICE_NAME = 'office-service'
     TOKEN=credentials('2eae9508-bacf-4cb5-b966-a5f6be365c5c')
