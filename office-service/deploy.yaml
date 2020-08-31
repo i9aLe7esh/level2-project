@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: office-service
-        image: rawan005/office-service
+        image: salehalshamlan/office-service
         ports:
         - containerPort: 80
