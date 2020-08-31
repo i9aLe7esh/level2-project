@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: person-service
-        image: rawan005/person-service
+        image: salehalshamlan/person-service
         ports:
         - containerPort: 80
 
