@@ -35,7 +35,7 @@ spec:
     CREDS = credentials('saleh_docker_creds')
     DOCKER_NAMESPACE = 'salehalshamlan'
     SERVICE_NAME = 'person-service'
-    TOKEN=credentials('2eae9508-bacf-4cb5-b966-a5f6be365c5c')
+    TOKEN=credentials('7c2490b0-f028-4961-a0df-efc3f0ab766e')
   }
   stages {
       stage("Build") {
