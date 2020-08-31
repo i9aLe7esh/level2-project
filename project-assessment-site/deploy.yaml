@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: project-assessment-site
-        image: rawan005/project-assessment-site
+        image: salehalshamlan/project-assessment-site
         ports:
         - containerPort: 80
